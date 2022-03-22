@@ -17,3 +17,8 @@ LANGUAGE USED AND APIs USED
 -> UI Creation using Ant Design
 -> Creating charts using Chart.js
 -> Fetching data from multiple sources using RapidAPI 
+ 
+ 
+ FETCHING REAL TIME DATA 
+ -----------------------------
+ I have used Rapid
