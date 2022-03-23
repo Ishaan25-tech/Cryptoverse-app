@@ -26,9 +26,14 @@ LANGUAGE USED AND APIs USED
  
  COINRANKING
  ---------------
- We use the code snippet on the right side and paste the same in crptoApi.js file that we created. This fetches real time prices,exchnge rates etc.
+ We use the code snippet on the right side and copied the same in crptoApi.js file that we created. This fetches real time prices,exchnge rates etc.
  
  
  ![Screenshot (16)](https://user-images.githubusercontent.com/67230052/159690465-4b2dd498-3779-4ec9-973e-adb921bc0741.png)
+ 
+ BINGE NEWS SEARCH
+ --------------------
+ 
+  I have used the code snippet on the right side and copied the same in CryptoNewsApi.js file that I created. This fetches the latest Crptocurrency related news from around the globe.
 ![Screenshot (17)](https://user-images.githubusercontent.com/67230052/159690473-099a0dec-0aa6-4b37-afbd-dd5fda8bc06d.png)
 
