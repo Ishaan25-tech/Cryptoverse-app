@@ -21,7 +21,9 @@ LANGUAGE USED AND APIs USED
  
  FETCHING REAL TIME DATA 
  -----------------------------
+ 
  I have used Rapid Api to fetch real time crpyto currency data . COINRANKING is the Api I have specifically used for fetching data about crypto exchanges, prices , markets  etc. and Binge News Search for fetching the latest crypto currenct related news.
+ 
  COINRANKING
  ---------------
  We use the code snippet on the right side and paste the same in crptoApi.js file that we created. This fetches real time prices,exchnge rates etc.
