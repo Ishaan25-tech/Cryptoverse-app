@@ -17,7 +17,9 @@ LANGUAGE USED AND APIs USED
 -> UI Creation using Ant Design
 -> Creating charts using Chart.js
 -> Fetching data from multiple sources using RapidAPI 
- 
+ -> Javascrpit 
+ -> HTML
+ -> CSS
  
  FETCHING REAL TIME DATA 
  -----------------------------
@@ -36,4 +38,8 @@ LANGUAGE USED AND APIs USED
  
   I have used the code snippet on the right side and copied the same in CryptoNewsApi.js file that I created. This fetches the latest Crptocurrency related news from around the globe.
 ![Screenshot (17)](https://user-images.githubusercontent.com/67230052/159690473-099a0dec-0aa6-4b37-afbd-dd5fda8bc06d.png)
+
+VIDEO DEMO
+----------------
+
 
