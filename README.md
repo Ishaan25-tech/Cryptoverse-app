@@ -43,7 +43,7 @@ VIDEO DEMO
 ----------------
 
 This is the demo video of the working of my app,
-->to run any react projet we start my typing " npm start" in the terminal and it opens the project on localhost3000 . 
+->to run any react projet we start my typing " npm start" in the terminal and it opens the project on http://localhost:3000 . 
 
 
 https://user-images.githubusercontent.com/67230052/159692644-a113b128-a69d-4292-bb0d-5bc8a6a6b4e4.mp4
